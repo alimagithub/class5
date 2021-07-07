@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #ADF1EA;
+} 
+  h1 {
+    color: #20B2AA;
+    font-size: 25px;
+    text-transform: uppercase;
+  }
+
+  h2 {
+  font-size: 21px;
+  color:#00CED1;
+  }
+
+   h3 {
+  font-size: 21px;
+  color:#288E84;
+  }
+
+  p {
+    font-size: 15px;
+    color: #585858;
+    line-height: 28px;
+  }
+
+ 
+table {
+  border-collapse: collapse;
+  width: 100%;
+ 
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
